@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'voidale:sortable-light',
-  version: '1.2.1',
+  name: 'rodcope1:sortable-light',
+  version: '1.3.0',
   summary: 'Sortable without the extra meteor functions from rubaxa:sortable',
-  git: 'https://github.com/voidale/meteor-sortable-light.git',
+  git: 'https://github.com/rodcope1/meteor-sortable-light.git',
   documentation: 'README.md'
 });
 
